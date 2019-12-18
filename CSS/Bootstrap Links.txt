@@ -1,0 +1,15 @@
+
+Url
+	https://benzneststudios.com/blog/web/bootstrap-4-basic-part-1/
+
+Custom Fonts
+	https://fonts.google.com/
+
+Fontawesome
+	https://fontawesome.com/how-to-use/on-the-web/setup/getting-started?using=web-fonts-with-css
+
+class utilities 
+	https://getbootstrap.com/docs/4.0/utilities/colors/
+
+Animate.css
+	https://daneden.github.io/animate.css/
